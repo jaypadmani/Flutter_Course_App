@@ -1,9 +1,6 @@
 
 # Flutter Course Completion - The Complete Flutter Development Bootcamp with Dart
 
-A brief description of what this project does and who it's for
-
-
 ## Course Details
 
 Course Name: The Complete Flutter Development Bootcamp with Dart
